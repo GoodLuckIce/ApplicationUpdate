@@ -16,7 +16,7 @@ namespace GitHubUpdatePackage
         static void Main()
         {
             ApplicationUpdate.PackageUpdateFile(@"D:\Git\ApplicationUpdate\TlbbAide");
-            ApplicationUpdate.PackageUpdateFile(@"D:\Git\ApplicationUpdate\UpdateIce");
+            //ApplicationUpdate.PackageUpdateFile(@"D:\Git\ApplicationUpdate\UpdateIce");
         }
     }
 }
